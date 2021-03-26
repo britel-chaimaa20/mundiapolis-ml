@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 '''Neuron'''
 import numpy as np
 import matplotlib.pyplot as plt
