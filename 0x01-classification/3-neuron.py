@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Neuron'''
+'''Neuron''
 import numpy as np
 
 
