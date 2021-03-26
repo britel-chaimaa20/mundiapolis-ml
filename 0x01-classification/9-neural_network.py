@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-
+"""
+Module contenant la classe neurone
+"""
 import numpy as np
 
 
