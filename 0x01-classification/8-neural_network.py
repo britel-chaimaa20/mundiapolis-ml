@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 '''Neural Network'''
-
 import numpy as np
 
 
