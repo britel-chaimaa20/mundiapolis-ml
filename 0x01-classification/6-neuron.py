@@ -41,6 +41,7 @@ class Neuron:
         )
         return self.__A
 
+    
     def sigmoid(self, X):
         '''Sigmoid function'''
         return 1 / (1 + np.exp(-X))
